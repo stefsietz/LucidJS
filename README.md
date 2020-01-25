@@ -11,7 +11,7 @@ If you find this work useful, please consider using the follwing citing template
 
 ```
 
-@inproceedings{Jaunet:2019,
+@inproceedings{Sietzen:2019,
   author = {Stefan Sietzen, Manuela Waldner},
 	title = {Interactive Feature Visualization in the Browser},
 	journal = {Proceedings of the Workshop on Visualization for AI explainability (VISxAI)},
