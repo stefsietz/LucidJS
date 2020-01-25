@@ -11,12 +11,12 @@ If you find this work useful, please consider using the follwing citing template
 
 ```
 
-@inproceedings{Sietzen:2019,
-  author = {Stefan Sietzen, Manuela Waldner},
+@article{Sietzen2019,
+  author = {Sietzen, Stefan and Waldner, Manuela},
 	title = {Interactive Feature Visualization in the Browser},
 	journal = {Proceedings of the Workshop on Visualization for AI explainability (VISxAI)},
 	year = {2019},
-	editors = {Mennatallah El-Assady, Duen Horng (Polo) Chau, Fred Hohman, Adam Perer, Hendrik Strobelt, Fernanda Viégas}
+	editors = {El-Assady, Mennatallah and Chau, Duen Horng (Polo) and Hohman, Fred and Perer, Adam and Strobelt, Hendrik and Viégas, Fernanda},
 	url = {http://visxai.stefansietzen.at/}
 }
 
